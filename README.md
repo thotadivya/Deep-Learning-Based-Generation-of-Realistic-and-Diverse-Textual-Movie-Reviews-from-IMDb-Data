@@ -1,4 +1,4 @@
-# Deep Learning–Based Generation of Realistic and Diverse Textual Movie Reviews from IMDb Data
+# Deep Learning for Generating Realistic and Diverse Movie Reviews using the IMDb Dataset
 
 ## Project Overview
 
